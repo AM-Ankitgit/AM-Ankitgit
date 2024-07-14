@@ -8,7 +8,7 @@ Hi there! I'm Ankit Mahalle, a Machine Learning Engineer with a passion for Data
 - 👯 I’m looking to collaborate on Gen AI agent
 - 🤔 I’m looking for help with [Areas You Need Help With]
 - 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: mahalleankit007@mail.come
+- 📫 How to reach me: mahalleankit007@mail.com
 
 ## My Projects
 
