@@ -2,13 +2,13 @@
 
 ## About Me
 
-Hi there! I'm [Your Name], a [Your Job Title] with a passion for [Your Interests]. I love working on [Technologies/Projects] and contributing to open-source projects.
+Hi there! I'm Ankit Mahalle, a Machine Learning Engineer with a passion for Data Science and AI. I love working on ML/DL/Gen AI and contributing to open-source projects.
 
-- 🌱 I’m currently learning [What You're Learning]
-- 👯 I’m looking to collaborate on [Projects or Types of Projects]
+- 🌱 I’m currently learning Gen AI
+- 👯 I’m looking to collaborate on Gen AI agent
 - 🤔 I’m looking for help with [Areas You Need Help With]
 - 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Contact Information]
+- 📫 How to reach me: mahalleankit007@mail.come
 
 ## My Projects
 
