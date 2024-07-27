@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! U+1F600 I'm Ankit Mahalle, a Machine Learning Engineer with a passion for Data Science and AI. I love working on ML/DL/Gen AI and contributing to open-source projects.
+Hi there! :U+1F600: I'm Ankit Mahalle, a Machine Learning Engineer with a passion for Data Science and AI. I love working on ML/DL/Gen AI and contributing to open-source projects.
 
 - 🌱 I’m currently learning Gen AI
 - 👯 I’m looking to collaborate on Gen AI agent
