@@ -28,6 +28,7 @@ Hi there! I'm Ankit Mahalle, a Machine Learning Engineer with a passion for Data
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![alt text](c:/Users/BW_ML_1/Downloads/365datascience.svg)
 
 
 
