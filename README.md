@@ -67,8 +67,8 @@ I have worked at:
 
 Feel free to reach out to me through:
 
-- [Email](mailto:your_email@example.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- 📧 [Email](mailto:your_email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- :Twitter: [Twitter](https://twitter.com/yourprofile)
 
 Thanks for visiting my profile!
