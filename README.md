@@ -69,6 +69,6 @@ Feel free to reach out to me through:
 
 - 📧 [Email](mailto:your_email@example.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- :Twitter: [Twitter](https://twitter.com/yourprofile)
+- :twitter: [Twitter](https://twitter.com/yourprofile)
 
 Thanks for visiting my profile!
