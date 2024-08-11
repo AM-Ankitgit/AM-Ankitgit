@@ -42,13 +42,6 @@ I'm __Ankit Mahalle__, a Machine Learning Engineer with a passion for Data Scien
 
 
 
-
-
-
-
-
-
-
 ## Interests
 
 - [Interest 1]
