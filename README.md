@@ -56,6 +56,13 @@ I have worked at:
 - [Company 2] as [Job Title 2]
 - [Company 3] as [Job Title 3]
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankitmahalle&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankitmahalle&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmahalle&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## Get in Touch
 
 Feel free to reach out to me through:
